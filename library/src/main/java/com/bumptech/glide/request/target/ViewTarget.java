@@ -14,10 +14,12 @@ import androidx.annotation.CallSuper;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
-import com.bumptech.glide.R;
 import com.bumptech.glide.request.Request;
 import com.bumptech.glide.util.Preconditions;
 import com.bumptech.glide.util.Synthetic;
+
+import org.mythtv.leanfront.R;
+
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.List;
